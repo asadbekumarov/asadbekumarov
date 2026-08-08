@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
@@ -33,11 +33,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asadbekumarov&show_icons=true&theme=tokyonight" height="165"/>
-
-### 📈 Activity Graph
+### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbekumarov&theme=tokyo-night" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=asadbekumarov&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/asadbekumarov?style=flat&color=blue)
+
 </div>
