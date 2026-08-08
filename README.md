@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/31/96/0f/31960ffb82b077f0d4c2dbacfdb3c9d4.jpg" width="100%" style="border-radius: 10px;"/>
+<img src="https://i.pinimg.com/736x/31/96/0f/31960ffb82b077f0d4c2dbacfdb3c9d4.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 10px;"/>
 
 <h1>Umarov Asadbek</h1>
 <h3>Junior Frontend and Mobile Developer | React • Next.js • JavaScript • TypeScript • React Native</h3>
@@ -36,6 +36,5 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=asadbekumarov&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=asadbekumarov&theme=tokyonight" height="165"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=asadbekumarov&theme=tokyonight" height="165"/>
 </div>
