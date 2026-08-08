@@ -5,12 +5,6 @@
 <h1>Umarov Asadbek</h1>
 <h3>Junior Frontend and Mobile Developer | React • Next.js • JavaScript • TypeScript • React Native</h3>
 
-<p>
-  <a href="https://t.me/Asad_umarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/asadbek-umarov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://portfolio-umarov-asadbek.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-</p>
-
 ---
 
 ### Bog'lanish
