@@ -36,5 +36,8 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=asadbekumarov&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=asadbekumarov&theme=tokyonight" height="165"/>
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbekumarov&theme=tokyo-night" width="100%"/>
 </div>
