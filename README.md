@@ -17,14 +17,14 @@ React · Next.js · TypeScript · React Native
 
 ---
 
-## About Me
+## Men haqimda
 
-Frontend & Mobile Developer focused on building clean, responsive and scalable applications with modern JavaScript technologies.
-I enjoy turning ideas and designs into functional products, improving code quality and learning through real-world projects.
+Zamonaviy JavaScript texnologiyalari yordamida toza, responsive va kengaytiriladigan ilovalar yaratishga ixtisoslashgan Frontend & Mobile Developer'man.
+G'oya va dizaynlarni ishlaydigan mahsulotga aylantirishni, kod sifatini oshirishni va real loyihalar orqali o'rganishni yoqtiraman.
 
 ---
 
-## Tech Stack
+## Texnologiyalar
 
 **Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
@@ -32,21 +32,21 @@ I enjoy turning ideas and designs into functional products, improving code quali
 
 **State Management & Data:** Redux Toolkit · RTK Query · Zustand · REST API
 
-**Tools:** Git · GitHub · Figma · VS Code
+**Vositalar:** Git · GitHub · Figma · VS Code
 
 ---
 
-## Currently Working On
+## Hozir nima ustida ishlayapman
 
-- 🔭 Preparing for frontend interviews with a focus on **JavaScript, React, Redux and TypeScript**
-- 🌱 Improving my English from **A2 → B1** and continuing to learn through personal projects
-- 🚀 Working with a team on a **startup evaluation and certification platform**
+- 🔭 Frontend interview'larga tayyorgarlik ko'rmoqdaman — asosiy e'tibor **JavaScript, React, Redux va TypeScript**'da
+- 🌱 Ingliz tilimni **A2 → B1** darajasiga olib chiqmoqdaman va shaxsiy loyihalar orqali o'rganishni davom ettiryapman
+- 🚀 Jamoada **startap baholash va sertifikatlash platformasi** ustida ishlamoqdaman
 
 ---
 
-## Connect
+## Bog'lanish
 
-If you would like to collaborate, discuss a project or invite me to join your team, feel free to reach out.
+Hamkorlik qilish, loyiha muhokama qilish yoki jamoangizga taklif qilish uchun bemalol yozing.
 
 <div align="center">
 
