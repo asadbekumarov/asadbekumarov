@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bgg.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 10px;"/>
+<img src="bgg.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;"/>
 
 <h1>Umarov Asadbek</h1>
 <h3>Junior Frontend and Mobile Developer | React • Next.js • JavaScript • TypeScript • React Native</h3>
