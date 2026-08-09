@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="bgg.png" width="100%" height="220" alt="Asadbek Umarov" />
+<div align="start">
 
 ### Frontend & Mobile Developer
 React · Next.js · TypeScript · React Native
