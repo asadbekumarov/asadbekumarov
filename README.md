@@ -25,8 +25,6 @@ React · Next.js · TypeScript · React Native
 
 **State Management & Data:** Redux Toolkit · RTK Query · Zustand · REST API
 
-**Vositalar:** Git · GitHub 
-
 ---
 
 ## Bog'lanish
