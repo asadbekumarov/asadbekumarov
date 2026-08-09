@@ -3,7 +3,6 @@
 <img src="bgg.png" width="100%" height="220" alt="Asadbek Umarov" />
 
 ### Frontend & Mobile Developer
-
 React · Next.js · TypeScript · React Native
 
 <a href="https://portfolio-umarov-asadbek.vercel.app/">Portfolio</a> ·
@@ -21,31 +20,19 @@ React · Next.js · TypeScript · React Native
 ## About Me
 
 Frontend & Mobile Developer focused on building clean, responsive and scalable applications with modern JavaScript technologies.
-
 I enjoy turning ideas and designs into functional products, improving code quality and learning through real-world projects.
 
 ---
 
 ## Tech Stack
 
-### Frontend
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend stack" />
+**Mobile:** React Native · Expo
 
-### Mobile
+**State Management & Data:** Redux Toolkit · RTK Query · Zustand · REST API
 
-<img src="https://skillicons.dev/icons?i=react,expo,typescript,javascript,redux,androidstudio,apple" alt="Mobile Development Stack" />
-
-### State Management & Data
-
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux Toolkit" />
-<img src="https://img.shields.io/badge/RTK%20Query-764ABC?style=flat&logo=redux&logoColor=white" alt="RTK Query" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white" alt="Zustand" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=flat" alt="REST API" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools" />
+**Tools:** Git · GitHub · Figma · VS Code
 
 ---
 
@@ -54,10 +41,6 @@ I enjoy turning ideas and designs into functional products, improving code quali
 - 🔭 Preparing for frontend interviews with a focus on **JavaScript, React, Redux and TypeScript**
 - 🌱 Improving my English from **A2 → B1** and continuing to learn through personal projects
 - 🚀 Working with a team on a **startup evaluation and certification platform**
-
----
-
-</div>
 
 ---
 
@@ -85,7 +68,5 @@ If you would like to collaborate, discuss a project or invite me to join your te
 <br />
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=asadbekumarov&style=flat-square" alt="Profile views" />
-
 </div>
