@@ -1,5 +1,7 @@
 <div align="start">
 
+<h1>Umarov Asadbek</h1>
+
 ### Frontend & Mobile Developer
 React · Next.js · TypeScript · React Native
 
