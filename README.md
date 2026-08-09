@@ -1,86 +1,168 @@
 <div align="center">
 
-<img src="bgg.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;"/>
+<img src="bgg.png" width="100%" height="220" alt="Asadbek Umarov" />
 
-<h1>Umarov Asadbek</h1>
-<h3>Junior Frontend & Mobile Developer | React • Next.js • TypeScript • React Native</h3>
+# Asadbek Umarov
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
+### Frontend & Mobile Developer
 
----
+React · Next.js · TypeScript · React Native
 
-### Bog'lanish
+Building modern, scalable and user-focused web & mobile applications.
 
-Hamkorlik qilmoqchi bo'lsangiz yoki jamoangizga taklif qilmoqchi bo'lsangiz — yozing.
+<a href="https://portfolio-umarov-asadbek.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/asadbek-umarov/">LinkedIn</a> ·
+<a href="https://t.me/Asad_umarov">Telegram</a>
 
-<a href="https://t.me/Asad_umarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/asadbek-umarov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:asadbekumarov922@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br />
 
----
+<img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" alt="Open to Work" />
 
-### Tech Stack
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white"/>
+</div>
 
 ---
 
-### Hozir nima ustida ishlayapman
+## About Me
 
-- 🔭 Frontend interview'larga tayyorgarlik ko'rmoqdaman (JS, React, Redux, TS)
-- 🌱 English (A2 → B1) va shaxsiy loyihalar orqali o'rganishni davom ettiryapman
-- 👀 Startup baholash va sertifikatlash platformasi loyihasi ustida jamoada ishlamoqdaman
+Frontend & Mobile Developer focused on building clean, responsive and scalable applications with modern JavaScript technologies.
+
+I enjoy turning ideas and designs into functional products, improving code quality and learning through real-world projects.
 
 ---
 
-### Loyihalarim
+## Tech Stack
 
-<!--
-Bu yerga loyihalaringizni qo'shing. Har biri uchun quyidagi shablondan foydalanishingiz mumkin:
+### Frontend
 
-#### [Loyiha nomi](loyiha-linki)
-Qisqacha tavsif — nima qiladi, qanday texnologiyalar ishlatilgan.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend stack" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+
+### State Management & Data
+
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/RTK%20Query-764ABC?style=flat&logo=redux&logoColor=white" alt="RTK Query" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat" alt="REST API" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools" />
+
+---
+
+## Currently Working On
+
+- 🔭 Preparing for frontend interviews with a focus on **JavaScript, React, Redux and TypeScript**
+- 🌱 Improving my English from **A2 → B1** and continuing to learn through personal projects
+- 🚀 Working with a team on a **startup evaluation and certification platform**
+
+---
+
+## Featured Projects
+
+### Portfolio
+
+Personal developer portfolio built to showcase my experience, skills and projects.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+<a href="https://github.com/asadbekumarov/portfolio">View Repository →</a>
+
+### PUBG Tournament Dashboard
+
+Tournament management dashboard focused on presenting competition data through a modern web interface.
+
+`Next.js` `TypeScript` `React`
+
+<a href="https://github.com/asadbekumarov/pubgturnir">View Repository →</a>
+
+### PUBG Admin Panel
+
+Administrative interface for managing tournament-related data and workflows.
+
 `React` `TypeScript` `Tailwind CSS`
 
-Masalan:
+<a href="https://github.com/asadbekumarov/Pubg-Admin-panel">View Repository →</a>
 
-#### [Darrov](https://github.com/...)
-SoftTurtkul uchun Telegram WebApp — foydalanuvchilarga tezkor xizmat ko'rsatish uchun mo'ljallangan.
-`React` `TypeScript` `Tailwind CSS`
+### Vocab / Vocan
 
-#### [Rowkey](https://github.com/...)
-Ikki tilli (UZ/EN) landing page, scroll animatsiyalari bilan.
-`Next.js` `next-intl` `Framer Motion`
--->
+Vocabulary-focused project for learning and working with English words.
+
+`React` `TypeScript`
+
+<a href="https://github.com/asadbekumarov/vocan">View Repository →</a>
+
+### Milliy IT Center
+
+Web project developed as part of my frontend development work and practice.
+
+`React` `TypeScript` `CSS`
+
+<a href="https://github.com/asadbekumarov/Milliy-IT-center">View Repository →</a>
 
 ---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asadbekumarov&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekumarov&layout=compact&hide_border=true" height="170" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbekumarov&hide_border=true" height="170" alt="GitHub streak" />
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbekumarov&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+<br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake.svg" alt="GitHub contribution snake" />
 </picture>
+
+</div>
 
 ---
 
-### GitHub Statistika
+## Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=asadbekumarov&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekumarov&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+If you would like to collaborate, discuss a project or invite me to join your team, feel free to reach out.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbekumarov&theme=tokyonight&hide_border=true" width="70%"/>
+<div align="center">
 
-### Activity Graph
+<a href="https://portfolio-umarov-asadbek.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/asadbek-umarov/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://t.me/Asad_umarov">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:asadbekumarov922@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbekumarov&theme=tokyo-night" width="100%"/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=asadbekumarov&color=blue&style=flat)
-![Followers](https://img.shields.io/github/followers/asadbekumarov?style=flat&color=blue)
+<br />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=asadbekumarov&style=flat-square" alt="Profile views" />
 
 </div>
