@@ -2,13 +2,9 @@
 
 <img src="bgg.png" width="100%" height="220" alt="Asadbek Umarov" />
 
-# Asadbek Umarov
-
 ### Frontend & Mobile Developer
 
 React · Next.js · TypeScript · React Native
-
-Building modern, scalable and user-focused web & mobile applications.
 
 <a href="https://portfolio-umarov-asadbek.vercel.app/">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/asadbek-umarov/">LinkedIn</a> ·
@@ -38,7 +34,7 @@ I enjoy turning ideas and designs into functional products, improving code quali
 
 ### Mobile
 
-<img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+<img src="https://skillicons.dev/icons?i=react,expo,typescript,javascript,redux,androidstudio,apple" alt="Mobile Development Stack" />
 
 ### State Management & Data
 
@@ -60,79 +56,6 @@ I enjoy turning ideas and designs into functional products, improving code quali
 - 🚀 Working with a team on a **startup evaluation and certification platform**
 
 ---
-
-## Featured Projects
-
-### Portfolio
-
-Personal developer portfolio built to showcase my experience, skills and projects.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-<a href="https://github.com/asadbekumarov/portfolio">View Repository →</a>
-
-### PUBG Tournament Dashboard
-
-Tournament management dashboard focused on presenting competition data through a modern web interface.
-
-`Next.js` `TypeScript` `React`
-
-<a href="https://github.com/asadbekumarov/pubgturnir">View Repository →</a>
-
-### PUBG Admin Panel
-
-Administrative interface for managing tournament-related data and workflows.
-
-`React` `TypeScript` `Tailwind CSS`
-
-<a href="https://github.com/asadbekumarov/Pubg-Admin-panel">View Repository →</a>
-
-### Vocab / Vocan
-
-Vocabulary-focused project for learning and working with English words.
-
-`React` `TypeScript`
-
-<a href="https://github.com/asadbekumarov/vocan">View Repository →</a>
-
-### Milliy IT Center
-
-Web project developed as part of my frontend development work and practice.
-
-`React` `TypeScript` `CSS`
-
-<a href="https://github.com/asadbekumarov/Milliy-IT-center">View Repository →</a>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asadbekumarov&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekumarov&layout=compact&hide_border=true" height="170" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbekumarov&hide_border=true" height="170" alt="GitHub streak" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbekumarov&hide_border=true" width="100%" alt="GitHub activity graph" />
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/asadbekumarov/asadbekumarov/output/github-snake.svg" alt="GitHub contribution snake" />
-</picture>
 
 </div>
 
