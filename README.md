@@ -17,13 +17,6 @@ React · Next.js · TypeScript · React Native
 
 ---
 
-## Men haqimda
-
-Zamonaviy JavaScript texnologiyalari yordamida toza, responsive va kengaytiriladigan ilovalar yaratishga ixtisoslashgan Frontend & Mobile Developer'man.
-G'oya va dizaynlarni ishlaydigan mahsulotga aylantirishni, kod sifatini oshirishni va real loyihalar orqali o'rganishni yoqtiraman.
-
----
-
 ## Texnologiyalar
 
 **Frontend:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
@@ -32,21 +25,11 @@ G'oya va dizaynlarni ishlaydigan mahsulotga aylantirishni, kod sifatini oshirish
 
 **State Management & Data:** Redux Toolkit · RTK Query · Zustand · REST API
 
-**Vositalar:** Git · GitHub · Figma · VS Code
-
----
-
-## Hozir nima ustida ishlayapman
-
-- 🔭 Frontend interview'larga tayyorgarlik ko'rmoqdaman — asosiy e'tibor **JavaScript, React, Redux va TypeScript**'da
-- 🌱 Ingliz tilimni **A2 → B1** darajasiga olib chiqmoqdaman va shaxsiy loyihalar orqali o'rganishni davom ettiryapman
-- 🚀 Jamoada **startap baholash va sertifikatlash platformasi** ustida ishlamoqdaman
+**Vositalar:** Git · GitHub 
 
 ---
 
 ## Bog'lanish
-
-Hamkorlik qilish, loyiha muhokama qilish yoki jamoangizga taklif qilish uchun bemalol yozing.
 
 <div align="center">
 
