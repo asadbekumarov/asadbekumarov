@@ -45,9 +45,4 @@ React · Next.js · TypeScript · React Native
 </a>
 
 </div>
-
-<br />
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=asadbekumarov&style=flat-square" alt="Profile views" />
 </div>
